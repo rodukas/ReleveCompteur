@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "source": "GoogleSheetSample.csv",
+  "lastAnalyzedDate": "01Aug26",
+  "offsets": {
+    "TWINGO": 0.0,
+    "TIGUAN": 0.0,
+    "MX5": 0.0,
+    "EDF": 0.0,
+    "CLIM_T00": 0.0,
+    "GAZ": 33573.0,
+    "EAU_GEN": 4377.0,
+    "EAU_JARDIN": 0.0,
+    "ARROSAGE": 0.0
+  },
+  "notes": {
+    "GAZ": "Changement compteur gaz le 13Oct21 à 33 573 m³ (remise à 0 du compteur physique)",
+    "EAU_GEN": "Changement compteur eau le 24Dec24 à 4 377 m³ (remise à 0 du compteur physique)",
+    "EDF": "Compteur Linky en tarif de base (suite HC depuis 17Mar21, offset feuille = 0)",
+    "CLIM_T00": "Sous-compteur dédié climatisation installé le 11Feb21 à 0 kWh",
+    "ARROSAGE": "Sous-compteur goutte-à-goutte installé le 01Jul24 à 0 m³"
+  }
+}

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Relevé Compteurs</string>
+
+    <!-- Bottom Navigation -->
+    <string name="nav_capture">Capturer</string>
+    <string name="nav_trends">Tendances</string>
+    <string name="nav_costs">Coûts &amp; Tarifs</string>
+
+    <!-- Meter Labels (Exact Taxonomy) -->
+    <string name="meter_twingo">Twingo</string>
+    <string name="meter_tiguan">Tiguan</string>
+    <string name="meter_mx5">mx5</string>
+    <string name="meter_edf">edf</string>
+    <string name="meter_clim">clim (T00)</string>
+    <string name="meter_gaz">gaz</string>
+    <string name="meter_eau_gen">Eau generale</string>
+    <string name="meter_eau_jardin">Eau jardin</string>
+    <string name="meter_arrosage">Arrosage</string>
+
+    <!-- Confirmation Modal Actions -->
+    <string name="action_cancel">Annuler</string>
+    <string name="action_retake">Reprendre</string>
+    <string name="action_validate_save">Valider et Enregistrer</string>
+
+    <!-- Timeframes -->
+    <string name="timeframe_1m">Dernier mois</string>
+    <string name="timeframe_3m">Derniers 3 mois</string>
+    <string name="timeframe_6m">Derniers 6 mois</string>
+    <string name="timeframe_1y">Dernière année</string>
+</resources>
